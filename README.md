@@ -1,4 +1,4 @@
 # Discord-verify-bot
 This bot uses hcaptcha to verify users that want to join your guild
 
-I am still working locally on this project to optimize it for those that want to built it in ease, you can epect it soon though.
+This project is already almost done I am doing finishing touches on it and still test it manually for issues I will most likely upload it a few days after Christmas.
