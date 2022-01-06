@@ -12,7 +12,7 @@ A Discord bot that uses hcaptcha to verify new joined members.
 [Node.js](https://nodejs.org/en/) (Version > 7.0.0)<br>
 
 # Installation
-To start using Discord-hcaptcha you first need to install all dependencies do this by opening cmd and navigate to the direcory like this: `cd desktop/hcaptcha` after that do `npm i` this installs the dependencies this will take sometime. After that fill in the config file [here]() is documented what to fill in if you are not certain.<br>
+To start using Discord-hcaptcha you first need to install all dependencies do this by opening cmd and navigate to the direcory like this: `cd desktop/hcaptcha` after that do `npm i` this installs the dependencies this will take sometime. After that fill in the config file [here](https://github.com/V0l-D/Discord-hcaptcha/wiki/Installation) is documented what to fill in if you are not certain.<br>
 <br>
 # Contribution
 Contribution is welcome I could use all the help that's there on this project to maintain it and make it work on other operating systems. If you have improvements or ideas contact me on Discord: `Void#1001` if you have a fix, suggestion etc. you may also fork this project and pull request.
