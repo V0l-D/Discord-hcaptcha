@@ -1,7 +1,7 @@
 [![Discord Chat](https://img.shields.io/discord/868546947953356860)](https://discord.gg/kbf8EjpxbU)
 [![Known Vulnerabilities](https://snyk.io/test/github/Terroriser1/Discord-Netflix/badge.svg)](https://snyk.io/test/github/Terroriser1/Discord-hcaptcha)
 # Discord-hcaptcha
-A Discord bot that uses hcaptcha to verify new joined members. 
+A Discord bot that uses hcaptcha to verify new joined members.
 # Features
 - A website for verification
 - Hcaptcha for privacy
