@@ -1,0 +1,23 @@
+<!doctype HTML>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width,initial-scale=1" name="viewport">
+    <title>Verification</title>
+</head>
+<body>
+    <script src="https://hcaptcha.com/1/api.js" async defer></script>   
+
+    <p>Solve the captcha below</p>
+
+    <form action="?" method="POST" id="hCaptcha">
+    <div class="h-captcha"  data-theme="dark" data-sitekey="f7ee7597-8450-46f1-9da6-1e3c9d86f531" data-callback="onSubmit"></div>
+    <br>
+    <div class="buttons">
+    <button style="float: left; margin: 30px;"submit" value="Submit">Submit</button>
+    </div>
+    </form>
+     
+    <a href="http://localhost:8081/" style="float: left; margin: 30px;">Cancel</a> 
+</body>
+</html>

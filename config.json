@@ -1,0 +1,9 @@
+{
+    "client_secret":"", 
+    "client_id":"",
+    "redirect_uri":"http://localhost:8081",
+    "hcaptcha_secret":"",
+    "bot_token":"",
+    "guild_id":"",
+    "role_id":""
+}
