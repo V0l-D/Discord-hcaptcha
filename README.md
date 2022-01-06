@@ -23,7 +23,7 @@ Contribution is welcome I could use all the help that's there on this project to
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
 | [<img src="https://avatars.githubusercontent.com/u/35117713?v=4" width="100px;"/><br /><sub><b>V0l-D</b></sub>](https://github.com/V0l-D "Void#1001")<br />[💻](https://github.com/V0l-D/discord-netflix/commits?author=V0l-D "Code") [🎨](#design-V0l-D "Design")| 
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+ | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 ## Credits
 This was mostly coded by however I still want to thank [discordcaptcha](https://github.com/y21/discordcaptcha) for giving me this idea
