@@ -36,6 +36,6 @@
     "passport-discord.js": "^0.0.6",
     "request": "^2.88.2",
     "socket.io": "^4.4.1",
-    "stripe": "^8.195.0"
+    "stripe": "^8.196.0"
   }
 }
