@@ -32,7 +32,7 @@
     "moment-duration-format": "^2.3.2",
     "node-fetch": "^3.2.3",
     "oauthfix": "^1.0.0",
-    "passport": "^0.5.2",
+    "passport": "^0.6.0",
     "passport-discord.js": "^0.0.6",
     "request": "^2.88.2",
     "socket.io": "^4.4.1",
