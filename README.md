@@ -26,6 +26,6 @@ Contribution is welcome I could use all the help that's there on this project to
  | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 ## Credits
-This was mostly coded by however I still want to thank [discordcaptcha](https://github.com/y21/discordcaptcha) for giving me this idea
+This was mostly coded by me however I still want to thank [discordcaptcha](https://github.com/y21/discordcaptcha) for giving me this idea
 ## Community
 You can join [this](https://discord.gg/mJYxxeZygw) Discord server for updates and more information about the project and chat with other people interested in this project.
